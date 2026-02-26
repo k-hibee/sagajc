@@ -3,4 +3,5 @@ debug.log
 *.mp4
 *.mov
 *.wmv
-*.avi*.pptx
+*.avi
+*.pptx
